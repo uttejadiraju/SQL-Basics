@@ -1,0 +1,6 @@
+# SELECT WITH LIMIT
+USE SailorsDBMS;
+
+SELECT S.*   FROM Sailors S ORDER BY S.age  LIMIT 3;
+
+
